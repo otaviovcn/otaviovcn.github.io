@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github-page/static/css/main.a6873d45.css",
+    "main.js": "/github-page/static/js/main.59fee3a8.js",
+    "static/media/cv.pdf": "/github-page/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/me.png": "/github-page/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/Vini-picture.jpeg": "/github-page/static/media/Vini-picture.ff25270130a6c55e1ba6.jpeg",
+    "index.html": "/github-page/index.html",
+    "main.a6873d45.css.map": "/github-page/static/css/main.a6873d45.css.map",
+    "main.59fee3a8.js.map": "/github-page/static/js/main.59fee3a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6873d45.css",
+    "static/js/main.59fee3a8.js"
+  ]
+}
