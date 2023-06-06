@@ -1,20 +1,23 @@
-import Header from './components/header/Header';
-import Footer from './components/footer/Footer';
-import Nav from './components/nav/Nav';
-import About from './components/about/About';
-import Experience from './components/experience/Experience';
-import Contact from './components/contact/Contact';
+// import logo from './logo.svg';
+import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { NavBar } from "./components/NavBar";
+import { Banner } from "./components/Banner";
+import { Certificates } from "./components/Certificates";
+import { Projects } from "./components/Projects";
+import { Contact } from "./components/Contact";
+import { Footer } from "./components/Footer";
 
 function App() {
   return (
-    <>
-      <Header />
-      <Nav />
-      <About />
-      <Experience />
+    <div className="App">
+      <NavBar />
+      <Banner />
+      <Certificates />
+      <Projects />
       <Contact />
       <Footer />
-    </>
+    </div>
   );
 }
 
