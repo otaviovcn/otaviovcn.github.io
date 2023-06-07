@@ -1,3 +1,5 @@
+import solarSystemPicture from "../assets/img/solar-system-capa.png";
+
 export const certificates = [
   {
     title: "Fundamentos do Desenvolvimento Web",
@@ -15,13 +17,12 @@ export const certificates = [
     link: "https://www.credential.net/d3f1b7df-64fc-4a7b-a1db-eec601661ea1#gs.zm48nf"
   }
 ]
-
 export const projects = [
-  // {
-  //   title: "Projeto 1",
-  //   imgURl: "https://templates.images.credential.net/16675888845677352988024928076562.png",
-  //   demoLink: "https://www.credential.net/2de58130-170a-4842-ac09-15d50662bf9c#gs.zm4iw2",
-  //   category: "Front-end",
-  //   repoLink: "https://www.credential.net/2de58130-170a-4842-ac09-15d50662bf9c#gs.zm4iw2"
-  // },
+  {
+    title: "Solar System",
+    imgUrl: solarSystemPicture,
+    demoLink: "https://otaviovcn.github.io/solar-system/",
+    category: "Front-end",
+    repoLink: "https://github.com/otaviovcn/solar-system"
+  },
 ];

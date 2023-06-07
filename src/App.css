@@ -450,18 +450,21 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border: 1px solid rgba(255, 255, 255, 0.5);
   border-radius: 0 55px 55px 0;
 }
+.project-icons {
+  padding: 10px;
+}
 @media (max-width: 600px) {
 	.nav-link#projects-tabs-tab-first {
-    font-size: 0.75rem;
+    font-size: 0.67rem;
   }
   .nav-link#projects-tabs-tab-second {
-    font-size: 0.75rem;
+    font-size: 0.67rem;
   }
   .nav-link#projects-tabs-tab-third {
-    font-size: 0.75rem;
+    font-size: 0.67rem;
   }
   .nav-link#projects-tabs-tab-fourth {
-    font-size: 0.75rem;
+    font-size: 0.67rem;
 	}
 }
 .proj-imgbx {
@@ -472,7 +475,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .proj-imgbx::before {
   content: "";
-  background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
+  background: linear-gradient(90.21deg, #031928 -5.91%, #0D426C 111.58%);
   opacity: 0.85;
   position: absolute;
   width: 100%;
