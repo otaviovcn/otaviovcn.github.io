@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.af9d1708.css",
-    "main.js": "/static/js/main.8fed4a5d.js",
+    "main.css": "/static/css/main.14c973be.css",
+    "main.js": "/static/js/main.e6b87a27.js",
     "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/solar-system-capa.png": "/static/media/solar-system-capa.afbf6ebbcde83ac7ad39.png",
@@ -14,12 +14,12 @@
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
-    "main.af9d1708.css.map": "/static/css/main.af9d1708.css.map",
-    "main.8fed4a5d.js.map": "/static/js/main.8fed4a5d.js.map",
+    "main.14c973be.css.map": "/static/css/main.14c973be.css.map",
+    "main.e6b87a27.js.map": "/static/js/main.e6b87a27.js.map",
     "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af9d1708.css",
-    "static/js/main.8fed4a5d.js"
+    "static/css/main.14c973be.css",
+    "static/js/main.e6b87a27.js"
   ]
 }
