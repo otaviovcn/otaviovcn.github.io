@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.14c973be.css",
-    "main.js": "/static/js/main.e6b87a27.js",
+    "main.css": "/static/css/main.9f161b6b.css",
+    "main.js": "/static/js/main.2bb0c520.js",
     "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
-    "static/media/solar-system-capa.png": "/static/media/solar-system-capa.afbf6ebbcde83ac7ad39.png",
+    "static/media/solar-system-capa.png": "/static/media/solar-system-capa.a4534483e7e53c4f5605.png",
+    "static/media/tfc-picture.png": "/static/media/tfc-picture.597fa72d07ae847633a4.png",
     "static/media/header-img.svg": "/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -14,12 +15,12 @@
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
-    "main.14c973be.css.map": "/static/css/main.14c973be.css.map",
-    "main.e6b87a27.js.map": "/static/js/main.e6b87a27.js.map",
+    "main.9f161b6b.css.map": "/static/css/main.9f161b6b.css.map",
+    "main.2bb0c520.js.map": "/static/js/main.2bb0c520.js.map",
     "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14c973be.css",
-    "static/js/main.e6b87a27.js"
+    "static/css/main.9f161b6b.css",
+    "static/js/main.2bb0c520.js"
   ]
 }
