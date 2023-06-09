@@ -1,59 +1,11 @@
-/* eslint-disable jsx-a11y/alt-text */
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-// import projImg1 from "../assets/img/project-img1.png";
-// import projImg2 from "../assets/img/project-img2.png";
-// import projImg3 from "../assets/img/project-img3.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 import { projects } from "../data";
 
 export const Projects = () => {
-
-  // const projects = [
-  //   {
-  //     title: "Business Startup",
-  //     description: "Design & Development",
-  //     imgUrl: projImg1,
-  //   },
-  //   {
-  //     title: "Business Startup",
-  //     description: "Design & Development",
-  //     imgUrl: projImg2,
-  //   },
-  //   {
-  //     title: "Business Startup",
-  //     description: "Design & Development",
-  //     imgUrl: projImg3,
-  //   },
-  //   {
-  //     title: "Business Startup",
-  //     description: "Design & Development",
-  //     imgUrl: projImg1,
-  //   },
-  //   {
-  //     title: "Business Startup",
-  //     description: "Design & Development",
-  //     imgUrl: projImg2,
-  //   },
-  //   {
-  //     title: "Business Startup",
-  //     description: "Design & Development",
-  //     imgUrl: projImg3,
-  //   },
-  //   {
-  //     title: "Business Startup",
-  //     description: "Design & Development",
-  //     imgUrl: projImg2,
-  //   },
-  //   {
-  //     title: "Business Startup",
-  //     description: "Design & Development",
-  //     imgUrl: projImg3,
-  //   },
-  // ];
-
   const mappingProjects = (projects, category) => {
     const filteredProjects = projects.map((project, index) => {
       if (category === project.category || category === "All") {
@@ -65,9 +17,13 @@ export const Projects = () => {
         )
       };
     })
-    if((projects.some(project => project.category !== category) && category !== "All") || projects.length === 0) return (
-      <p>Não há projetos para esta categoria</p>
-    )
+
+
+    console.log(projects.some((project) => project.category !== category));
+
+    if(!projects.some((project) => project.category === category) && category !== "All") {
+      return <p>Não há projetos para esta categoria</p>
+    }
     return filteredProjects;
   };
 

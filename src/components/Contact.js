@@ -62,9 +62,9 @@ export const Contact = () => {
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                   <h2>Como me encontrar</h2>
-                  <p>{<FaSearchLocation size="1.3rem" color="#0D426C" />} | Recife-PE-Brasil</p>
-                  <p background="">{<FaPhone size="1.3rem" color="#0D426C"/>} |+55 81 99989-2022</p>
-                  <p>{<MdAlternateEmail size="1.3rem" color="#0D426C"/>} | viinident@gmail.com</p>
+                  <p>{<FaSearchLocation size="1.7rem" color="#0D426C" />} | Recife-PE-Brasil</p>
+                  <p background="">{<FaPhone ssize="1.7rem" color="#0D426C"/>} |+55 81 99989-2022</p>
+                  <p>{<MdAlternateEmail size="1.7rem" color="#0D426C"/>} | viinident@gmail.com</p>
                   {/* <form onSubmit={handleSubmit}>
                   <Row>
                     <Col size={12} sm={6} className="px-1">

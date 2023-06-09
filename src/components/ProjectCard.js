@@ -9,8 +9,11 @@ export const ProjectCard = ({ title, imgUrl, demoLink, repoLink, category }) => 
         <img src={imgUrl} alt={`A ${category} project`} />
         <div className="proj-txtx">
           <h4>{title}</h4>
-          <a className="project-icons" href={repoLink}>{<FaGithub size="3rem" color="" />}</a>
-          <a className="project-icons" href={demoLink}>{<AiFillEye size="3rem" color="" />}</a>
+          <h5>{category}</h5>
+          <div>
+            <a className="project-icons" href={repoLink} target="_blank" rel="noreferrer">{<FaGithub size="3rem" color="" />}GitHub</a>
+            {demoLink ? <a className="project-icons" href={demoLink} target="_blank" rel="noreferrer">{<AiFillEye size="3rem" color="" />}Demo</a> : null}
+          </div>
         </div>
       </div>
     </Col>

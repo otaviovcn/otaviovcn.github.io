@@ -1,4 +1,5 @@
 import solarSystemPicture from "../assets/img/solar-system-capa.png";
+import tfcPictute from "../assets/img/tfc-picture.png";
 
 export const certificates = [
   {
@@ -25,4 +26,11 @@ export const projects = [
     category: "Front-end",
     repoLink: "https://github.com/otaviovcn/solar-system"
   },
+  {
+    title: "Trybe Futebol Clube",
+    imgUrl: tfcPictute,
+    demoLink: "",
+    category: "Fullstack",
+    repoLink: "https://github.com/otaviovcn/trybe-futebol-clube/"
+  }
 ];

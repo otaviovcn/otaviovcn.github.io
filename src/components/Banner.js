@@ -1,5 +1,5 @@
-/* eslint-disable react-hooks/exhaustive-deps */
-/* eslint-disable no-unused-vars */
+// /* eslint-disable react-hooks/exhaustive-deps */
+// /* eslint-disable no-unused-vars */
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import headerImg from "../assets/img/header-img.svg";
@@ -60,7 +60,6 @@ export const Banner = () => {
                 {/* <span className="tagline">Welcome to my Portfolio</span> */}
                 <h1>{`Olá!`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Meu nome é Otávio Vinícius", "Sou Web Developer" ]'><span className="wrap">{text}</span></span></h1>
                   <p>Como um web developer apaixonado, estou comprometido em criar experiências online envolventes e funcionais. Minha combinação de habilidades técnicas, experiência profissional e mentalidade de aprendizado me permite enfrentar desafios de desenvolvimento web com confiança e entusiasmo. Estou sempre pronto para enfrentar novos projetos e colaborar com equipes para transformar ideias em realidade na web.</p>
-                  {/* <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button> */}
               </div>}
             </TrackVisibility>
           </Col>
