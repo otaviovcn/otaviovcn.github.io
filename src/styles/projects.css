@@ -28,6 +28,10 @@
 .project .nav.nav-pills .nav-item {
   width: 25%;
 }
+.project .nav.nav-pills .nav-item:hover {
+  background: linear-gradient(90.21deg, #031928 -5.91%, #0D426C 111.58%);
+  cursor: pointer;
+}
 .project .nav.nav-pills .nav-link {
   background-color: transparent;
   border-radius: 0;

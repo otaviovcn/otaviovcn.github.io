@@ -44,7 +44,8 @@
     border: 1px solid rgba(255, 255, 255, 0.5);
 }
 .certificate-slider .item a:hover {
-    background: rgba(255, 255, 255, 0.5);
+    background: linear-gradient(90.21deg, #031928 -5.91%, #0D426C 111.58%);
+    color: #fff;
     border: 1px solid #fff;
 }
 .social-icon a::before {
