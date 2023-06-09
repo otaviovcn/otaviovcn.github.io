@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f161b6b.css",
-    "main.js": "/static/js/main.2bb0c520.js",
-    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "main.css": "/static/css/main.0e805de5.css",
+    "main.js": "/static/js/main.29de707c.js",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/solar-system-capa.png": "/static/media/solar-system-capa.a4534483e7e53c4f5605.png",
     "static/media/tfc-picture.png": "/static/media/tfc-picture.597fa72d07ae847633a4.png",
@@ -15,12 +14,11 @@
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
-    "main.9f161b6b.css.map": "/static/css/main.9f161b6b.css.map",
-    "main.2bb0c520.js.map": "/static/js/main.2bb0c520.js.map",
-    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+    "main.0e805de5.css.map": "/static/css/main.0e805de5.css.map",
+    "main.29de707c.js.map": "/static/js/main.29de707c.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f161b6b.css",
-    "static/js/main.2bb0c520.js"
+    "static/css/main.0e805de5.css",
+    "static/js/main.29de707c.js"
   ]
 }
