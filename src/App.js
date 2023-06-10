@@ -6,6 +6,7 @@ import './styles/certificates.css'
 import './styles/skills.css'
 import './styles/projects.css'
 import './styles/footer.css'
+import './styles/contact.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { NavBar } from "./components/NavBar";
 import { Banner } from "./components/Banner";

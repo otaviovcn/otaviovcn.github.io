@@ -2,7 +2,7 @@ import { SiExpress, SiSequelize, SiMongodb } from 'react-icons/si';
 import { FaNodeJs, FaDocker, FaPython } from 'react-icons/fa';
 import { GrMysql } from 'react-icons/gr';
 
-const size = '55px';
+const size = '50px';
 
 export const backend = [
   {

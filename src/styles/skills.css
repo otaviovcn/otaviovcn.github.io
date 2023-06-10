@@ -111,6 +111,12 @@
   .proj-txtx h4 {
     font-size: 18px;
   }
+  .skills h2 {
+    font-size: 40px;
+  }
+  .skills h5 {
+    font-size: 17px;
+  }
 }
 .proj-imgbx {
   position: relative;

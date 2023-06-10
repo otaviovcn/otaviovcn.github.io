@@ -148,3 +148,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
 nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 	border-color: 10px solid #fffaaa;
 }
+.logo-image {
+    width: 180px;
+    height: 100%;
+    object-fit: cover;
+}

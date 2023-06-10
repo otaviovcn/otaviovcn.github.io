@@ -1,7 +1,7 @@
 import { FaHtml5, FaCss3Alt, FaReact, FaNpm, FaGitAlt } from "react-icons/fa";
 import { SiJavascript, SiTypescript, SiRedux, SiJest, SiTestinglibrary, SiReactrouter, SiGnubash } from "react-icons/si";
 
-const size = '55px';
+const size = '50px';
 
 export const all = [
   {
