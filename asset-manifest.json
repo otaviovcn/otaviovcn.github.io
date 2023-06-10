@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.3778926c.css",
-    "main.js": "/static/js/main.954f679f.js",
+    "main.js": "/static/js/main.2aa83462.js",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/car-shop-picture.png": "/static/media/car-shop-picture.8d94e68ba66c90c33512.png",
     "static/media/solar-system-capa.png": "/static/media/solar-system-capa.a4534483e7e53c4f5605.png",
     "static/media/tfc-picture.png": "/static/media/tfc-picture.597fa72d07ae847633a4.png",
     "static/media/header-img.svg": "/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
@@ -16,10 +17,10 @@
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
     "main.3778926c.css.map": "/static/css/main.3778926c.css.map",
-    "main.954f679f.js.map": "/static/js/main.954f679f.js.map"
+    "main.2aa83462.js.map": "/static/js/main.2aa83462.js.map"
   },
   "entrypoints": [
     "static/css/main.3778926c.css",
-    "static/js/main.954f679f.js"
+    "static/js/main.2aa83462.js"
   ]
 }
