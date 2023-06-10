@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3778926c.css",
-    "main.js": "/static/js/main.537f0db7.js",
+    "main.js": "/static/js/main.954f679f.js",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/solar-system-capa.png": "/static/media/solar-system-capa.a4534483e7e53c4f5605.png",
     "static/media/tfc-picture.png": "/static/media/tfc-picture.597fa72d07ae847633a4.png",
@@ -16,10 +16,10 @@
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
     "main.3778926c.css.map": "/static/css/main.3778926c.css.map",
-    "main.537f0db7.js.map": "/static/js/main.537f0db7.js.map"
+    "main.954f679f.js.map": "/static/js/main.954f679f.js.map"
   },
   "entrypoints": [
     "static/css/main.3778926c.css",
-    "static/js/main.537f0db7.js"
+    "static/js/main.954f679f.js"
   ]
 }
