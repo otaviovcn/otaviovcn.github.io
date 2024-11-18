@@ -51,6 +51,9 @@ export const Projects = () => {
                       <Nav.Item>
                         <Nav.Link eventKey="fourth">Back-end</Nav.Link>
                       </Nav.Item>
+                      <Nav.Item>
+                        <Nav.Link eventKey="fifth">Mobile</Nav.Link>
+                      </Nav.Item>
                     </Nav>
                     <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
                       <Tab.Pane eventKey="first">
@@ -78,6 +81,13 @@ export const Projects = () => {
                         <Row>
                           {
                             mappingProjects(projects, 'Back-end')
+                          }
+                        </Row>
+                      </Tab.Pane>
+                      <Tab.Pane eventKey="fifth">
+                        <Row>
+                          {
+                            mappingProjects(projects, 'Mobile')
                           }
                         </Row>
                       </Tab.Pane>

@@ -1,5 +1,5 @@
-import { SiExpress, SiSequelize, SiMongodb } from 'react-icons/si';
-import { FaNodeJs, FaDocker, FaPython } from 'react-icons/fa';
+import { SiExpress, SiSequelize, SiMongodb, SiKotlin } from 'react-icons/si';
+import { FaNodeJs, FaDocker, FaPython, FaJava  } from 'react-icons/fa';
 import { GrMysql } from 'react-icons/gr';
 
 const size = '50px';
@@ -10,6 +10,18 @@ export const backend = [
     description: "",
     icon: <SiExpress size={size} />,
     iconAlt: "Express",
+  },
+  {
+    category: "Back-end",
+    description: "",
+    icon: <SiKotlin size={size} />,
+    iconAlt: "Kotlin",
+  },
+  {
+    category: "Back-end",
+    description: "",
+    icon: <FaJava size={size} />,
+    iconAlt: "Java",
   },
   {
     category: "Back-end",

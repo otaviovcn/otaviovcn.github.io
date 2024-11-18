@@ -1,5 +1,20 @@
 export const certificates = [
   {
+    title: "FrontEnd Development.",
+    imgUrl: "https://microcertificado.descomplica.com.br/a4fb20f2b32a1ecb5ad2ac02bc7cab4567e26b80f14e585ef67bf0c4fee734ee.png",
+    link: "https://microcertificado.descomplica.com.br/a4fb20f2b32a1ecb5ad2ac02bc7cab4567e26b80f14e585ef67bf0c4fee734ee.png"
+  },
+  {
+    title: "Software Requirements",
+    imgUrl: "https://microcertificado.descomplica.com.br/f076d64a685520edcf7c467e3f5dc8bca189e3c5fb98594b2bb70e27ae784ff9.png",
+    link: "https://microcertificado.descomplica.com.br/f076d64a685520edcf7c467e3f5dc8bca189e3c5fb98594b2bb70e27ae784ff9.png"
+  },
+  {
+    title: "Programming Languages",
+    imgUrl: "https://microcertificado.descomplica.com.br/8ec4a2e27f606887158f3041e1ef9539e0bf32a56493fb3f18c7ad6022b05388.png",
+    link: "https://microcertificado.descomplica.com.br/8ec4a2e27f606887158f3041e1ef9539e0bf32a56493fb3f18c7ad6022b05388.png"
+  },
+  {
     title: "Fundamentos do Desenvolvimento Web",
     imgUrl: "https://templates.images.credential.net/16675888845677352988024928076562.png",
     link: "https://www.credential.net/2de58130-170a-4842-ac09-15d50662bf9c#gs.zm4iw2"
